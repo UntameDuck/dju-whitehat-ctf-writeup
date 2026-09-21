@@ -62,7 +62,3 @@ writeup/
 
 재현용 스크립트는 [`scripts`](./scripts/)에 분리했습니다. 원격 주소와 바이너리 경로는 대회 당시 환경을 기준으로 하므로, 현재는 실행되지 않을 수 있습니다.
 
-## 원본
-
-- [대전대 화이트해커 경진대회 풀이 문서](https://docs.google.com/document/d/1A2sP3ibgalPa9eUUqHFbDGiqtV3Z2IHtzNOG0ObysVc/edit)
-
